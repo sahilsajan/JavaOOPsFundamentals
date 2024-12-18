@@ -1,2 +1,2 @@
 # JavaOOPsFundamentals
-code from fifth sem OOPs lab
+fifth sem OOP lab
